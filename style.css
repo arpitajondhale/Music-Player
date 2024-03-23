@@ -1,0 +1,710 @@
+body{
+    flex-wrap:wrap;
+}
+.div1>img{
+    width: 140px;
+    height: 50px;
+}
+.divmain{
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    gap: 100px;
+    background-color: white;
+}
+.div5>input{
+    border-radius:7px;
+    height: 30px;
+    width: 250px;
+    margin-top: 20px;
+    text-align: center;
+}
+.divmain1{
+    column-gap: 10px;
+    position: fixed;
+    margin-top: 50px;
+
+}
+.divmain2{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    text-align: center;
+   
+   
+}
+.sub1>button{
+    margin-top: 20px;
+   
+}
+.sub2>button{
+    margin-top: 20px;
+}
+.sub3>button{
+    margin-top: 20px;
+}
+.sub4>button{
+    margin-top: 20px;
+}
+.sub5>button{
+    margin-top: 20px;
+}
+.sub6>button{
+    margin-top: 20px;
+}
+.sub7>button{
+    margin-top: 20px;
+}
+.sub8>button{
+    margin-top: 20px;
+}
+.sub9>button{
+    margin-top: 20px;
+}
+.sub10>button{
+    margin-top: 20px;
+}
+
+.sub11>button{
+    margin-top: 20px;
+}
+.sub12>button{
+    margin-top: 20px;
+}
+.sub13>button{
+    margin-top: 20px;
+}
+.sub14>button{
+    margin-top: 20px;
+}
+.sub15>button{
+    margin-top: 20px;
+}
+.sub16>button{
+    margin-top: 20px;
+}
+.sub17>button{
+    margin-top: 20px;
+}
+.sub18>button{
+    margin-top: 20px;
+}
+.sub19>button{
+    margin-top: 20px;
+}
+.sub20>button{
+    margin-top: 20px;
+}
+.sub21>button{
+    margin-top: 20px;
+}
+.sub22>button{
+    margin-top: 20px;
+}
+.sub23>button{
+    margin-top: 20px;
+}
+.web1>button{
+    margin-top: 20px;
+}
+.web2>button{
+    margin-top: 20px;
+}
+.web3>button{
+    margin-top: 20px;
+}
+.web4>button{
+    margin-top: 20px;
+}
+.web5>button{
+    margin-top: 20px;
+}
+.web6>button{
+    margin-top: 20px;
+}
+.web8>button{
+    margin-top: 20px;
+}
+.web9>button{
+    margin-top: 20px;
+}
+.web10>button{
+    margin-top: 20px;
+}
+.web11>button{
+    margin-top: 20px;
+}
+.web12>button{
+    margin-top: 20px;
+}
+.web13>button{
+    margin-top: 20px;
+}
+.web14>button{
+    margin-top: 20px;
+}
+.script1>button{
+    margin-top: 20px;
+}
+.script2>button{
+    margin-top: 20px;
+}
+.script3>button{
+    margin-top: 20px;
+}
+.script4>button{
+    margin-top: 20px;
+}
+.script5>button{
+    margin-top: 20px;
+}
+.script6>button{
+    margin-top: 20px;
+}.script7>button{
+    margin-top: 20px;
+}
+.script8>button{
+    margin-top: 20px;
+}
+.script9>button{
+    margin-top: 20px;
+}
+.script10>button{
+    margin-top: 20px;
+}
+.script11>button{
+    margin-top: 20px;
+}
+.script12>button{
+    margin-top: 20px;
+}
+.script13>button{
+    margin-top: 20px;
+}
+.script14>button{
+    margin-top: 20px;
+}
+.sub1>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    
+    border-radius: 5px;
+   
+}
+
+.sub2>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+    
+}
+.sub3>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+    
+}
+.sub4>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+    
+}
+.sub5>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}   
+.sub6>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+   
+}
+.sub7>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.main{
+    display: flex;
+   
+}
+.main1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+h1{
+    margin-left: 50px;
+    
+    
+}
+.divmain3{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top: 100px;
+    text-align: center;
+} 
+.sub8>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub9>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub10>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub11>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub12>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub13>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub14>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub15>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub16>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub17>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub18>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 5px;
+}
+.sub19>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.divmain4{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top: 100px;
+    text-align: center;
+} 
+.divmain5{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top:100px;
+    text-align: center;
+}
+.sub20>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.sub21>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.sub22>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.sub23>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.divmain6{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+   margin-top: 100px;
+   text-align: center;
+   
+}
+.web1>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web2>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web3>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web4>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web5>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web6>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web7>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.divmain7{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top:100px;
+    text-align: center;
+}
+.web8>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web9>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web10>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web11>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web12>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web13>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.web14>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.divmain8{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top:100px;
+    text-align: center;
+}
+.script1>img{
+        height: 150px;
+        width: 150px;
+        margin-top: 10px;
+        gap: 10px;
+}
+.script2>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script3>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script4>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script5>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script6>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script7>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.divmain9{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top: 100px;
+    text-align: center;
+
+    
+}
+
+.script8>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script9>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script10>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script11>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script12>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.script13>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.script14>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.divmain10{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top: 100px;
+}
+.r1>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.r2>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.r3>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.r4>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.r5>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.r6>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.r7>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.divmain11{
+    display: flex;
+    margin-left: 50px;
+    column-gap: 50px;
+    margin-top: 100px;
+}
+.artist1>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.artist2>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.artist3>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.artist4>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.artist5>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.artist6>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.artist7>img{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    gap: 10px;
+    border-radius: 100%;
+}
+.divmain12{
+    display: flex;
+    margin-left: 50px;
+    margin-top:50px;
+    gap: 70px;
+}
+hr{
+    margin-top: 250px;
+   
+}
+.v7{
+     gap: 80px;
+    margin-left: 50px;
+    display: flex;
+    margin-top: 50px;
+}
